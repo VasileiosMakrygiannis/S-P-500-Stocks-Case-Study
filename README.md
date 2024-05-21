@@ -1,7 +1,7 @@
 # S&P500 Stocks Project
-This project was created after the successfull completion of the 8 series courses of the "Google Data Analytics Professional Certificate".
+This project was developed  throught following the successful completion of the eight-course "Google Data Analytics Professional Certificate" series.
 
-I decided to proceed at the last optional course "Google Data Analytics Capstone: Complete a Case Study" because i knew it would give me a direct experience on the things i learned throughout the courses and i was able to use most of the tools that i learned and many more that i searched myself to create this outcome.
+I chose to undertake the optional "Google Data Analytics Capstone: Complete a Case Study" course because I wanted hands-on experience applying what I had learned. This opportunity allowed me to use many of the tools covered in the courses, as well as additional resources I researched independently, to achieve this result.
 
 <br>
 
@@ -11,9 +11,9 @@ You are a junior data analyst working for an Index Fund manager. You have been i
 
 **Business Task**: Rank the top 10 quickest revenue growth companies, their total EBIDTA and trading volume.
 
-Deliverables: 
-1) I documented all the process in R Studio with a R Markdown file which is executable (Knit) in a HTML format.
-2) I used SQL Server Management Studio in order to manipulate the clean data with sql queries.
+**Deliverables**
+1) I documented the whole process in R Studio with a R Markdown file which is executable (Knit) in a HTML format.
+2) I used SQL Server Management Studio in order to manipulate the clean data with SQL queries.
 3) Finaly i created a dynamic visualization dashboard with Power BI to present and explain my findings.
 
 
