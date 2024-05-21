@@ -1,7 +1,7 @@
 # S&P500 Stocks Project
-This project was developed  throught following the successful completion of the eight-course "Google Data Analytics Professional Certificate" series.
+This project was developed by following the successful completion of the eight-course "Google Data Analytics Professional Certificate" series.
 
-I chose to undertake the optional "Google Data Analytics Capstone: Complete a Case Study" course because I wanted hands-on experience applying what I had learned. This opportunity allowed me to use many of the tools covered in the courses, as well as additional resources I researched independently, to achieve this result.
+I chose to undertake the optional "Google Data Analytics Capstone: Complete a Case Study" course because I wanted hands-on experience applying what I learned. This opportunity allowed me to use many of the tools covered in the courses, as well as additional resources I researched independently, to achieve this result.
 
 <br>
 
